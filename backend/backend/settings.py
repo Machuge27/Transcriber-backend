@@ -31,6 +31,10 @@ ALLOWED_HOSTS = ['*']
 
 CORS_ALLOW_ALL_ORIGINS = True
 
+CORS_ALLOWED_ORIGINS = [
+    "https://transcriber-henna.vercel.app/dashboard",
+]
+
 # Application definition
 
 INSTALLED_APPS = [
