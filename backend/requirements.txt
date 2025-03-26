@@ -3,7 +3,6 @@ djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
 django-cors-headers==4.1.0
 SpeechRecognition==3.10.0
-PyAudio==0.2.13
 google-cloud-speech==2.19.0
 python-dotenv==1.0.0
 pydub==0.25.1
